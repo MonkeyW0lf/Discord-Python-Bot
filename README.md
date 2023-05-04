@@ -39,7 +39,7 @@ python main.py
 
 ## Version
 
-Ceci est la version v1.0.0, pour voir l'évolution des versions --> [Versions](https://raw.githubusercontent.com/MonkeyW0lf/Discord-Python-Bot/main/versions). 
+Ceci est la version v1.0.0, pour voir l'évolution des versions --> [Versions](https://raw.githubusercontent.com/MonkeyW0lf/Discord-Python-Bot/main/versions)
 
 ## Auteur
 
