@@ -37,9 +37,9 @@ python main.py
 * [Youtube](https://www.youtube.com/@monkeywolf_rl) - Chaine YouTube
 
 
-## Versioning
+## Version
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Ceci est la version v1.0.0, pour voir l'évolution des versions --> [Versions](https://github.com//MonkeyW0lf/Discord-Python-Bot/versions). 
 
 ## Auteur
 
